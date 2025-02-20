@@ -32,7 +32,7 @@ const Portfolio = () => {
                   <BiNavigation className="fill-black border-2 border-black rounded-full p-1 size-8"/>
                 </div>
               </a>
-              <a className="relative" target="_blank" href="">
+              <a className="relative" target="_blank" href="https://dakshina-ecommerce.netlify.app/">
                 <img src={img2} alt="" className="size-64 rounded-lg" />
                 <div className="absolute bottom-5 left-8 px-6 py-3 bg-white flex items-center gap-4 rounded-lg ">
                   <h2 className="text-black">Ecommerce Site</h2>
