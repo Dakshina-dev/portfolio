@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  font-family: "Ovo", serif;
+  color: white;
+}
+h1{
+  font-family: "Great Vibes", serif;
+}
+li{
+  padding: 5px;
+}
+
+
